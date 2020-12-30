@@ -6,8 +6,8 @@ import Ubuntu.Components.Popups 1.3
 import QtSystemInfo 5.0
 import Qt.labs.settings 1.0
 
-import "qml/ui"
-import "qml/components"
+import "ui"
+import "components"
 
 MainView {
     id: mainView
@@ -23,11 +23,11 @@ MainView {
     readonly property bool isLandscape: width > height
 
     // API
-    property string auth_key: "414aeb60c70011bdfae360000d9bc353"
+    property string auth_key: "e522154190df97ef28c61f372e7e27b1"
     property string api_url: 'https://wall.alphacoders.com/api2.0/get.php'
 
     // App version
-    property string current_version: "0.1"
+    property string current_version: "0.2"
 
     // Test
     property bool is_transfer: false

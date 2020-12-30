@@ -5,12 +5,12 @@
     "title": "Wallpapers",
     "hooks": {
         "Wallpapers": {
-            "apparmor": "Wallpapers/Wallpapers.apparmor",
-            "desktop": "Wallpapers/Wallpapers.desktop",
-            "content-hub": "Wallpapers/content.json"
+            "apparmor": "Wallpapers.apparmor",
+            "desktop": "Wallpapers.desktop",
+            "content-hub": "Wallpapers.content-hub"
         }
     },
-    "version": "0.1.1",
+    "version": "0.2",
     "maintainer": "Turan Mahmudov <turan.mahmudov@gmail.com>",
-    "framework": "ubuntu-sdk-15.04.6"
+    "framework" : "ubuntu-sdk-16.04"
 }

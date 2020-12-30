@@ -39,6 +39,7 @@ function get_wallpapers(page) {
     }
 
     var xhr = new XMLHttpRequest()
+    console.log("GET "+url)
     xhr.open('GET', url, true)
     xhr.onreadystatechange = function() {
         if (xhr.readyState === 4) {

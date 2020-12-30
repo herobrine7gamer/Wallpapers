@@ -1,7 +1,7 @@
 [Desktop Entry]
 _Name=Wallpapers
-Exec=Wallpapers
-Icon=Wallpapers/Wallpapers.png
+Exec=qmlscene %U qml/Main.qml
+Icon=assets/Wallpapers.png
 Terminal=false
 Type=Application
 X-Ubuntu-Touch=true
