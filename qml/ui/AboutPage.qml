@@ -41,7 +41,7 @@ Page {
             height: units.gu(16)
             radius: "medium"
             source: Image {
-                source: Qt.resolvedUrl("../../Wallpapers.png")
+                source: Qt.resolvedUrl("../../assets/Wallpapers.png")
             }
         }
 
