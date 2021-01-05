@@ -9,19 +9,6 @@ Page {
         leadingActionBar {
             actions: navActions
         }
-        trailingActionBar {
-            numberOfSlots: 1
-            actions: [
-                Action {
-                    id: donateAction
-                    text: i18n.tr("Donate")
-                    iconName: "like"
-                    onTriggered: {
-                        Qt.openUrlExternally("https://liberapay.com/turanmahmudov")
-                    }
-                }
-            ]
-        }
     }
 
     Column {
@@ -69,6 +56,37 @@ Page {
             width: parent.width
 
             Label {
+                text: "(C) 2021 Wolfgang Eder"
+                width: parent.width
+                wrapMode: Text.WordWrap
+                horizontalAlignment: Text.AlignHCenter
+                fontSize: "small"
+            }
+
+            Label {
+                text: i18n.tr("Source code available on %1").arg("<a href=\"https://github.com/theBest3000/Wallpapers\">Github</a>.")
+                width: parent.width
+                wrapMode: Text.WordWrap
+                horizontalAlignment: Text.AlignHCenter
+                linkColor: UbuntuColors.blue
+                fontSize: "small"
+                onLinkActivated: Qt.openUrlExternally(link)
+            }
+
+            Label {
+                text: i18n.tr("Copy of the application from Turan Mahmudov.")
+                width: parent.width
+                wrapMode: Text.WordWrap
+                horizontalAlignment: Text.AlignHCenter
+                linkColor: UbuntuColors.blue
+                fontSize: "small"
+            }
+        }
+
+        Column {
+            width: parent.width
+
+            Label {
                 text: "(C) 2018 Turan Mahmudov"
                 width: parent.width
                 wrapMode: Text.WordWrap
@@ -87,22 +105,25 @@ Page {
             }
 
             Label {
-                text: i18n.tr("Released under the terms of the GNU GPL v3")
+                text: i18n.tr("Original source code available on %1").arg("<a href=\"https://github.com/turanmahmudov/Wallpapers\">Github</a>.")
                 width: parent.width
                 wrapMode: Text.WordWrap
                 horizontalAlignment: Text.AlignHCenter
+                linkColor: UbuntuColors.blue
                 fontSize: "small"
+                onLinkActivated: Qt.openUrlExternally(link)
             }
+            
+
         }
 
         Label {
-            text: i18n.tr("Source code available on %1").arg("<a href=\"https://github.com/turanmahmudov/Wallpapers\">Github</a>")
+            text: i18n.tr("Released under the terms of the GNU GPL v3")
             width: parent.width
             wrapMode: Text.WordWrap
             horizontalAlignment: Text.AlignHCenter
-            linkColor: UbuntuColors.blue
             fontSize: "small"
-            onLinkActivated: Qt.openUrlExternally(link)
         }
+
     }
 }
