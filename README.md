@@ -1,36 +1,18 @@
-# Wallpapers
-[![License](https://img.shields.io/badge/license-GPLv3-blue.svg)](http://www.gnu.org/licenses/gpl-3.0.en.html)
-[![GitHub release](https://img.shields.io/github/release/turanmahmudov/Wallpapers.svg)](https://github.com/turanmahmudov/Wallpapers)
-[![GitHub issues](https://img.shields.io/github/issues/turanmahmudov/Wallpapers.svg)](https://github.com/turanmahmudov/Wallpapers/issues)
+# Astronomy Picture Of The Day
 
-Wallpapers applications for Ubuntu
+Wallpapers applications for Ubuntu Touch
 
-## Installation
+##Credits
 
-- Search "Wallpapers" in the OpenStore and install the app
-- Direct download ".click" package from the [OpenStore](https://open.uappexplorer.com/app/wallpapers.turan-mahmudov-l)
-
-## Usage
-
-## Missing Features
-
-## Contributing
-
-## Translations
-
-## Credits
-- Creator & Developer: Turan Mahmudov <[turan.mahmudov@gmail.com](mailto:turan.mahmudov@gmail.com)>
-
-## Libraries
-
-## Support
-Reach out to me at one of the following places!
-
-- Google+ at <a href="https://plus.google.com/+TuranMahmudov" target="_blank">`+TuranMahmudov`</a>
-- Twitter at <a href="http://twitter.com/turanmahmudov" target="_blank">`@turanmahmudov`</a>
-
-## Donations
-Donate me on [PayPal](https://www.paypal.me/gturanmahmudov)
+This application was developed by Turan Mahmudov, see [Github project] (https://github.com/turanmahmudov/Wallpapers) If Turan Mahmudov resumes development, my application will be deleted.
 
 ## License
-The app is open source and licensed under GNU General Public License v3.0 (http://www.gnu.org/licenses/gpl-3.0.en.html).
+
+Copyright (C) 2021  Wolfgang Eder
+
+This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License version 3, as published
+by the Free Software Foundation.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranties of MERCHANTABILITY, SATISFACTORY QUALITY, or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with this program.  If not, see <http://www.gnu.org/licenses/>.

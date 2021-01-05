@@ -12,7 +12,7 @@ import "components"
 MainView {
     id: mainView
     objectName: "mainView"
-    applicationName: "wallpapers.turan-mahmudov-l"
+    applicationName: "wallpapers.eder"
 
     automaticOrientation: true
 
@@ -27,7 +27,7 @@ MainView {
     property string api_url: 'https://wall.alphacoders.com/api2.0/get.php'
 
     // App version
-    property string current_version: "0.2"
+    property string current_version: "0.1"
 
     // Test
     property bool is_transfer: false
@@ -38,9 +38,7 @@ MainView {
     // Startup settings
     Settings {
         id: settings
-        property string donateMe: ""
     }
-    property alias donateMe: settings.donateMe
 
     // Navigation Menu Actions
     property list<Action> navActions: [
@@ -95,12 +93,6 @@ MainView {
 
     function init() {
         pageStack.push(tabs)
-
-        // Donate me dialog
-        if (donateMe === "") {
-            PopupUtils.open(donateMeComponent);
-            donateMe = "showed"
-        }
     }
 
     PageStack {
@@ -131,35 +123,6 @@ MainView {
     FiltersPage {
         id: filtersPage
         visible: false
-    }
-
-    Component {
-        id: donateMeComponent
-
-        Dialog {
-            id: donateMeDialog
-            title: i18n.tr("Donate me")
-            text: i18n.tr("Donate to support me continue developing for Ubuntu.")
-
-            Row {
-                spacing: units.gu(1)
-                Button {
-                    width: parent.width/2 - units.gu(0.5)
-                    text: i18n.tr("Ignore")
-                    onClicked: PopupUtils.close(donateMeDialog)
-                }
-
-                Button {
-                    width: parent.width/2 - units.gu(0.5)
-                    text: i18n.tr("Donate")
-                    color: UbuntuColors.blue
-                    onClicked: {
-                        Qt.openUrlExternally("https://liberapay.com/turanmahmudov")
-                        PopupUtils.close(donateMeDialog)
-                    }
-                }
-            }
-        }
     }
 
     Component {
