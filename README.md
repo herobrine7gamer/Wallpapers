@@ -4,7 +4,7 @@ Wallpapers applications for Ubuntu Touch
 
 ## Credits
 
-This application was developed by Turan Mahmudov, see [Github project] (https://github.com/turanmahmudov/Wallpapers) If Turan Mahmudov resumes development, my application will be deleted.
+This application was developed by Turan Mahmudov, see https://github.com/turanmahmudov/Wallpapers If Turan Mahmudov resumes development, my application will be deleted.
 
 ## License
 
