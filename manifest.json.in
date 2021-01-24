@@ -10,7 +10,7 @@
             "content-hub": "Wallpapers.content-hub"
         }
     },
-    "version": "0.1",
+    "version": "0.1.1",
     "maintainer": "Wolfgang Eder <eder9@gmx.at>",
-    "framework" : "ubuntu-sdk-16.04"
+    "framework" : "ubuntu-sdk-16.04.3"
 }
