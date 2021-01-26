@@ -3,125 +3,126 @@
 # This file is distributed under the same license as the wallpapers.eder package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: wallpapers.eder\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-01-24 08:01+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"POT-Creation-Date: 2021-01-24 07:48+0000\n"
+"PO-Revision-Date: 2021-01-24 09:00+0100\n"
+"Language-Team: \n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"Last-Translator: Wolfgang Eder <eder9@gmx.at>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: de\n"
 
 #: ../qml/Main.qml:47 ../qml/ui/FiltersPage.qml:11
 #: ../qml/ui/WallpapersPage.qml:16 Wallpapers.desktop.in.h:1
 msgid "Wallpapers"
-msgstr ""
+msgstr "Wallpapers"
 
 #: ../qml/Main.qml:55 ../qml/ui/AboutPage.qml:8
 msgid "About"
-msgstr ""
+msgstr "Über"
 
 #: ../qml/Main.qml:67 ../qml/ui/WallpapersPage.qml:29
 msgid "Search"
-msgstr ""
+msgstr "Suche"
 
 #: ../qml/Main.qml:75
 msgid "Filter"
-msgstr ""
+msgstr "Filter"
 
 #: ../qml/ui/AboutPage.qml:49
 msgid "Wallpapers Application"
-msgstr ""
+msgstr "Wallpapers Applikation"
 
 #: ../qml/ui/AboutPage.qml:67
 msgid "Source code available on %1"
-msgstr ""
+msgstr "Source code verfügbar auf %1"
 
 #: ../qml/ui/AboutPage.qml:77
 msgid "Copy of the application from Turan Mahmudov."
-msgstr ""
+msgstr "Eine Kopie der Applikation von Turan Mahmudov"
 
 #: ../qml/ui/AboutPage.qml:108
 msgid "Original source code available on %1"
-msgstr ""
+msgstr "Originaler source code verfügbar auf %1"
 
 #: ../qml/ui/AboutPage.qml:121
 msgid "Released under the terms of the GNU GPL v3"
-msgstr ""
+msgstr "Veröffentlicht unter der GNU GPL v3 Lizenz"
 
 #: ../qml/ui/FiltersPage.qml:15 ../qml/ui/WallpapersPage.qml:34
 msgid "Close"
-msgstr ""
+msgstr "Schließen"
 
 #: ../qml/ui/FiltersPage.qml:37
 msgid "Save"
-msgstr ""
+msgstr "Speichern"
 
 #: ../qml/ui/FiltersPage.qml:63
 msgid "Latest"
-msgstr ""
+msgstr "Jüngste"
 
 #: ../qml/ui/FiltersPage.qml:64
 msgid "Ratings"
-msgstr ""
+msgstr "Bewertungen"
 
 #: ../qml/ui/FiltersPage.qml:65
 msgid "Views"
-msgstr ""
+msgstr "Views"
 
 #: ../qml/ui/FiltersPage.qml:66
 msgid "Favorites"
-msgstr ""
+msgstr "Favoriten"
 
 #: ../qml/ui/FiltersPage.qml:73 ../qml/ui/FiltersPage.qml:172
 msgid "All"
-msgstr ""
+msgstr "Alle"
 
 #: ../qml/ui/FiltersPage.qml:74
 msgid "HD Wallpapers"
-msgstr ""
+msgstr "HD Wallpapers"
 
 #: ../qml/ui/FiltersPage.qml:75
 msgid "UltraHD 4k Wallpapers"
-msgstr ""
+msgstr "UltraHD 4k Wallpapers"
 
 #: ../qml/ui/FiltersPage.qml:76
 msgid "Retina 5k Wallpapers"
-msgstr ""
+msgstr "Retina 5k Wallpapers"
 
 #: ../qml/ui/FiltersPage.qml:172
 msgid "Featured"
-msgstr ""
+msgstr "Featured"
 
 #: ../qml/ui/FiltersPage.qml:273 ../qml/ui/FiltersPage.qml:345
 msgid "Sort by"
-msgstr ""
+msgstr "Sortieren nach"
 
 #: ../qml/ui/FiltersPage.qml:313 ../qml/ui/FiltersPage.qml:370
 msgid "Resolution"
-msgstr ""
+msgstr "Auflösung"
 
 #: ../qml/ui/PhotoPage.qml:16
 msgid "Make Wallpaper"
-msgstr ""
+msgstr "Als Hintergrund festlegen"
 
 #: ../qml/ui/PhotoPage.qml:24
 msgid "Download"
-msgstr ""
+msgstr "Download"
 
 #: ../qml/ui/PhotoPage.qml:35
 msgid "Go to Collection"
-msgstr ""
+msgstr "Zur Collection gehen"
 
 #: ../qml/ui/PhotoPage.qml:52
 msgid "Go to Group"
-msgstr ""
+msgstr "Zur Gruppe gehen"
 
 #: ../qml/ui/PhotoPage.qml:69
 msgid "Photo"
-msgstr ""
+msgstr "Foto"
