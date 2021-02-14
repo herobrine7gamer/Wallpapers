@@ -170,6 +170,7 @@ Page {
 
                     Text {
                         text: all ? i18n.tr("All") : (featured ? i18n.tr("Featured") : phObj.name)
+                        color: theme.palette.normal.backgroundText
                     }
                 }
 

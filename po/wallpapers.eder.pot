@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wallpapers.eder\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-01-24 08:01+0000\n"
+"POT-Creation-Date: 2021-02-14 16:46+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -98,11 +98,11 @@ msgstr ""
 msgid "Featured"
 msgstr ""
 
-#: ../qml/ui/FiltersPage.qml:273 ../qml/ui/FiltersPage.qml:345
+#: ../qml/ui/FiltersPage.qml:274 ../qml/ui/FiltersPage.qml:346
 msgid "Sort by"
 msgstr ""
 
-#: ../qml/ui/FiltersPage.qml:313 ../qml/ui/FiltersPage.qml:370
+#: ../qml/ui/FiltersPage.qml:314 ../qml/ui/FiltersPage.qml:371
 msgid "Resolution"
 msgstr ""
 
