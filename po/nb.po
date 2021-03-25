@@ -1,0 +1,127 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the wallpapers.eder package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: wallpapers.eder\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-01-24 08:01+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: nb\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../qml/Main.qml:47 ../qml/ui/FiltersPage.qml:11
+#: ../qml/ui/WallpapersPage.qml:16 Wallpapers.desktop.in.h:1
+msgid "Wallpapers"
+msgstr "Bakgrunnsbilder"
+
+#: ../qml/Main.qml:55 ../qml/ui/AboutPage.qml:8
+msgid "About"
+msgstr "Om"
+
+#: ../qml/Main.qml:67 ../qml/ui/WallpapersPage.qml:29
+msgid "Search"
+msgstr "Søk"
+
+#: ../qml/Main.qml:75
+msgid "Filter"
+msgstr "Filter"
+
+#: ../qml/ui/AboutPage.qml:49
+msgid "Wallpapers Application"
+msgstr "Bakgrunnsbilderapp"
+
+#: ../qml/ui/AboutPage.qml:67
+msgid "Source code available on %1"
+msgstr "Kildekode tilgjengelig på %1"
+
+#: ../qml/ui/AboutPage.qml:77
+msgid "Copy of the application from Turan Mahmudov."
+msgstr "Kopi av appen fra Turan Mahmudov."
+
+#: ../qml/ui/AboutPage.qml:108
+msgid "Original source code available on %1"
+msgstr "Original kildekode tilgjengelig på %1"
+
+#: ../qml/ui/AboutPage.qml:121
+msgid "Released under the terms of the GNU GPL v3"
+msgstr "Utgitt under vilkårene i GNU GPL v3"
+
+#: ../qml/ui/FiltersPage.qml:15 ../qml/ui/WallpapersPage.qml:34
+msgid "Close"
+msgstr "Lukk"
+
+#: ../qml/ui/FiltersPage.qml:37
+msgid "Save"
+msgstr "Lagre"
+
+#: ../qml/ui/FiltersPage.qml:63
+msgid "Latest"
+msgstr "Siste"
+
+#: ../qml/ui/FiltersPage.qml:64
+msgid "Ratings"
+msgstr "Rangeringer"
+
+#: ../qml/ui/FiltersPage.qml:65
+msgid "Views"
+msgstr "Visninger"
+
+#: ../qml/ui/FiltersPage.qml:66
+msgid "Favorites"
+msgstr "Favoritter"
+
+#: ../qml/ui/FiltersPage.qml:73 ../qml/ui/FiltersPage.qml:172
+msgid "All"
+msgstr "Alle"
+
+#: ../qml/ui/FiltersPage.qml:74
+msgid "HD Wallpapers"
+msgstr "HD bakgrunnsbilder"
+
+#: ../qml/ui/FiltersPage.qml:75
+msgid "UltraHD 4k Wallpapers"
+msgstr "UltraHD 4k bakgrunnsbilder"
+
+#: ../qml/ui/FiltersPage.qml:76
+msgid "Retina 5k Wallpapers"
+msgstr "Retina 5k bakgrunnsbilder"
+
+#: ../qml/ui/FiltersPage.qml:172
+msgid "Featured"
+msgstr "Utvalgt"
+
+#: ../qml/ui/FiltersPage.qml:273 ../qml/ui/FiltersPage.qml:345
+msgid "Sort by"
+msgstr "Sorter etter"
+
+#: ../qml/ui/FiltersPage.qml:313 ../qml/ui/FiltersPage.qml:370
+msgid "Resolution"
+msgstr "Opplæsning"
+
+#: ../qml/ui/PhotoPage.qml:16
+msgid "Make Wallpaper"
+msgstr "Lag bakgrunnsbilde"
+
+#: ../qml/ui/PhotoPage.qml:24
+msgid "Download"
+msgstr "Last ned"
+
+#: ../qml/ui/PhotoPage.qml:35
+msgid "Go to Collection"
+msgstr "Gå til samling"
+
+#: ../qml/ui/PhotoPage.qml:52
+msgid "Go to Group"
+msgstr "Gå til gruppe"
+
+#: ../qml/ui/PhotoPage.qml:69
+msgid "Photo"
+msgstr "Foto"
