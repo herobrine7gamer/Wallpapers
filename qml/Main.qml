@@ -27,7 +27,7 @@ MainView {
     property string api_url: 'https://wall.alphacoders.com/api2.0/get.php'
 
     // App version
-    property string current_version: "0.1"
+    property string current_version: "0.1.2"
 
     // Test
     property bool is_transfer: false
